@@ -1,0 +1,58 @@
+/*Rett Putnam 4/10/22*/
+
+
+body {
+    font-family: 'Times New Roman', Times, sans-serif;
+    font-size: 15px;
+    color: rgb(17, 1, 1);
+}
+.Center{
+    text-align: center;
+}
+.right{
+    text-align: right;
+    position:fixed;
+}
+li { 
+    font-size: 14 px;
+    font-style: italic
+}
+a
+{
+    color:rgb(92, 67, 234);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.Resumelistheading {
+    font-weight: bold;
+    font-style: normal;
+}
+.underline {
+    text-decoration: underline;
+}
+.bold{font-weight: bold;}
+.big {font-size:large}
+
+.justify{ text-align: justify;}
+
+.homebg {background-image: url(images/Wave.jpg);
+}
+.Colorbg {background-color: #ada2a29a;}
+
+.box1 {
+    border-width: 4px;
+    border-style: solid;
+    border-color: white;
+    
+}
+.box2 {
+    padding:4px; /*delete this*/
+}
+.box3 {
+    Margin:4px;
+}
